@@ -1,0 +1,9 @@
+usuario@example.com
+usuario.nome@example.co.uk
+primeiro.ultimo@sub.dominio.org
+usuario+tag@gmail.com
+aluno-123@faculdade.edu.br
+contato@site-legal.net
+a@b.co
+email.@example.com
+email..invalido@example.com

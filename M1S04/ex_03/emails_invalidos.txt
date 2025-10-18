@@ -1,0 +1,8 @@
+invalido-sem-arroba.com
+outro@dominio-invalido
+sem-dominio@
+usuario@.com
+maria@hotmail.
+usuário_com_acento@example.com
+muito longo................................................................@example.com
+email@123.123.123.123
