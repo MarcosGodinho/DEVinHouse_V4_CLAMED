@@ -1,4 +1,5 @@
 import locale
+from datetime import datetime
 
 def dias_ate_ano_novo(data):
 
@@ -20,8 +21,6 @@ def dias_ate_natal(data):
     data_formatada = datetime.strptime(data, "%d/%m/%Y")
     natal = datetime(data_formatada.year, 12, 25)
     return (natal - data_formatada).days
-
-from datetime import datetime
 
 def dias_ate_proximo_aniversario(data_aniversario):
 
