@@ -1,0 +1,11 @@
+id,nome,preco,id_categoria,estoque
+1,Notebook Dell,4500,1,12
+2,Mouse Gamer,150,2,34
+3,Teclado Mecânico,320,2,27
+4,Monitor 24",890,3,15
+5,Cadeira Gamer,1250,4,9
+6,Headset USB,210,2,40
+7,SSD 480GB,360,5,22
+8,HD 1TB,280,5,19
+9,Webcam Full HD,310,3,14
+10,Smartphone Android,2300,1,25
